@@ -1,0 +1,408 @@
+body{
+
+margin: 0px;
+
+}
+header>img{
+margin-top: -2px;
+}
+header>span
+{
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 15px;
+	letter-spacing: 5px;
+	float: right;
+	margin-top: 40px;
+}
+/* main menu css*/
+#nav ul
+{
+	list-style-type: none;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: #4caf50;
+	  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#nav li
+{
+	float: left;
+}
+
+#nav li a
+{
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 17px;
+	letter-spacing: 5px;
+	display: block;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	padding: 17px 19px;
+}
+#nav li a:hover
+{
+	background-color: #fff;
+	color: #000;
+
+}
+
+/* side menu css*/
+#maincontent
+{
+	display: inline;
+}
+#sidemenu
+{
+	width: 230px;
+	height: 3060px;
+	float: left;
+	border-right: 1px solid #CCC;
+}
+#sidemenu ul
+{
+	list-style-type: none;
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	width: 230px;
+	background-color:#FFF;
+
+}
+#sidemenu li a{
+
+	font-family: Verdana, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	display: block;
+	padding: 4px 18px;
+	color: #000;
+	text-decoration: none;
+}
+
+#sidemenu li a:hover
+{
+	background-color: #CCCCCC;
+}
+
+
+#title 
+{
+	margin-top: -5px;
+	width: 200px;
+}
+#title h4{
+
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	padding-left: 16px;
+	margin-bottom: -5px;
+
+}
+
+/* Contect section CSS*/
+
+#content
+{
+	display: inline;
+	height: 600px;
+	background-color: #FFF;
+	float: left;
+
+}
+
+.container
+{
+	float: left;
+	width: 1050px;
+	height: 470px;
+	display: inline;
+	background-color: #fff;
+}
+.one
+{
+	width: 526px;
+	height: 300px;
+	float: left;
+	text-align: center;
+}
+.two
+{
+	 width: 525px;
+    height: 465px;
+   
+    margin-left: 526px;
+
+}
+
+#jumbo
+{
+	font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 80px;
+    display: block;
+    color: #555555;
+    margin: 50px 0 -20px 0;
+}
+#ptext
+{
+	font-family: Verdana, sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	color: #555555;
+}
+.b1
+{
+	font-family: Verdana, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: uppercase;
+	display: inline-block;
+	background-color: #555555;
+	color: white;
+	padding: 10px 14px;
+	text-decoration: none;
+	text-align: center;
+
+}
+.b1:hover
+{
+	background-color: #CCCCCC;
+}
+
+/*Div two CSS*/
+#parent{
+
+	position: absolute;
+	margin: 25px;
+	width: 465px;
+	height: 416px;
+	background-color: #F1F1F1;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#jumbo2
+{
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	margin: 40px 0 20px 15px;
+}
+#editor
+{
+	width: 435px;
+	height: 256px;
+	background-color: #fff;
+	margin: 15px;
+	border-left: 5px solid #4CAF50;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+.b2
+{
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 16px;
+	background-color: #4CAF50;
+	color: white;
+	margin-left: 15px;
+}
+.b2:hover
+{
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),0 4px 8px rgba(0, 0, 0, 0.2);
+}
+}
+}
+code
+{
+	font-family: Consolas, "courier new";
+	font-size: 16px;
+	color: blue;
+	
+}
+#two2
+{
+	width: 200px;
+	height: 300px;
+	background-color: grey;
+}
+
+.one2
+{
+	width: 525px;
+    height: 465px;
+    float: left;
+}
+.two2
+{
+	width: 526px;
+	height: 300px;
+	margin-left: 526px;
+	text-align: center;
+}
+
+
+/*Tiles css*/
+#tiles{
+
+	width: 1050px;
+	height: 340px;
+	background-color: #F1F1F1;
+}
+
+#til{
+
+	background-color: #fff;
+	width: 290px;
+	height: 260px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 40px;
+	text-align: center;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.th1
+{
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-weight: 400;
+	font-size: 36px;
+	display: block;
+	margin:40px 0 5px 0px;
+	text-align: center;
+
+}
+.th3
+{
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+}
+.ta
+{
+	font-family: Verdana, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: uppercase;
+	display: inline-block;
+	background-color: #555555;
+	color: white;
+	padding: 10px 14px;
+	text-decoration: none;
+	text-align: center;
+	margin: 0px;
+}
+
+.ta:hover
+{
+	background-color: #CCCCCC;
+}
+
+/*CSS for Multicolor text*/
+.blue
+{
+	color: blue;
+}
+
+
+/*Web template css*/
+#webtemp
+{
+	width: 1050px;
+	height: 700px;
+	background-color: #F1F1F1;
+	text-align: center;
+	font-family: "Segoe UI", Arial, sans-serif;
+}
+#webtemp a
+{
+	font-family: Verdana, sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	text-transform: uppercase;
+	display: inline-block;
+	background-color: #555555;
+	color: white;
+	padding: 14px 18px;
+	text-decoration: none;
+	text-align: center;
+	margin: 0px;
+}
+
+#webtemp a:hover
+{
+	background-color: #CCCCCC;
+}
+
+
+/*Footer CSS*/
+
+#footer
+{
+	width: 1050px;
+	height: 335px;
+	background-color: #616161;
+	text-align: center;
+
+}
+#line1
+{
+	height:100px;
+	width: 950px;
+	margin-left: 30px;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+
+}
+
+#fbutton
+{
+		font-family: Verdana, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: uppercase;
+	display: inline-block;
+	background-color: #FFF;
+	color: black;
+	padding: 10px 14px;
+	text-decoration: none;
+	text-align: center;
+	float: left;
+
+}
+#fbutton:hover
+{
+	background-color: #CCCCCC;
+}
+
+.flink
+{
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 3px;
+	text-decoration: none;
+	color: white;
+	padding-left: 10px;
+	padding-top: 12px;
+
+}
+.flink:hover
+{
+	color: #3ea341;
+}
+#fcontent
+{
+	font-family: Verdana, sans-serif;
+	text-align: center;
+	padding: 0 15px 0 15px;
+	font-size: 15px;
+	font-weight: 400;
+	color: white;
+}
